@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>https://github.com/srimaryaniulfah/</loc>
-     <lastmod>2019-05-16</lastmod>
+     <loc>https://github.com/170441100083srimaryaniulfah/</loc>
+     <lastmod>2019-05-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://github.com/srimaryaniulfah/getting-started/</loc>
-     <lastmod>2019-05-16</lastmod>
+     <loc>https://github.com/170441100083srimaryaniulfah/getting-started/</loc>
+     <lastmod>2019-05-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://github.com/srimaryaniulfah/authors-notes/</loc>
-     <lastmod>2019-05-16</lastmod>
+     <loc>https://github.com/170441100083srimaryaniulfah/authors-notes/</loc>
+     <lastmod>2019-05-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://github.com/srimaryaniulfah/customization/</loc>
-     <lastmod>2019-05-16</lastmod>
+     <loc>https://github.com/170441100083srimaryaniulfah/customization/</loc>
+     <lastmod>2019-05-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://github.com/srimaryaniulfah/contributing/</loc>
-     <lastmod>2019-05-16</lastmod>
+     <loc>https://github.com/170441100083srimaryaniulfah/contributing/</loc>
+     <lastmod>2019-05-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://github.com/srimaryaniulfah/release-notes/</loc>
-     <lastmod>2019-05-16</lastmod>
+     <loc>https://github.com/170441100083srimaryaniulfah/release-notes/</loc>
+     <lastmod>2019-05-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://github.com/170441100083srimaryaniulfah/compliance/</loc>
+     <lastmod>2019-05-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
